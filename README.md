@@ -56,7 +56,7 @@ We will release the data in the following files:
 - `test_unseen_entities.jsonl` : our testset containing unseen entities & hence possibly unseen types, not seen in training.
 - `glossary.tsv` : glossary file where each line is has 3 columns (qid, name, natural language description from wikidata)
 
-`Accessing the data : Steps to access & download the above files will updated here shortly.` 
+`Accessing the data : bash data/download_data.sh` 
 
 ## Cite
 
