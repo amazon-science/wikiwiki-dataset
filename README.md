@@ -26,6 +26,8 @@ WikiWiki provides a large scale dataset for linking, entity typing. In the paper
 - Formulate entity typing as a generative task, to explore using large pre-trained language models to infer types unknown to existing ontologies.
 - We use WikiWiki as a benchmark for fine-grained entity typing. WikiWiki is significantly larger and less noisy than existing benchmarks.
 
+https://arxiv.org/abs/2204.13796
+
 ```bibtex
 [Li et al. 2022]
 @inproceedings{li22instilling,
